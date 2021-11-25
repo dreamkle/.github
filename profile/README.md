@@ -14,6 +14,8 @@
 
 **`verticv_api_server`**: Backend made with Python FastAPI.
 
+**`verticv_yolov5`**: Product Recognition AI
+
 
 ***
 Backend - Python FastAPI
