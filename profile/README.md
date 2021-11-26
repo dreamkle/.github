@@ -32,6 +32,13 @@ Python FastAPI
 
 *** 
 
+### AWS
+- S3
+- CDN
+- Route53
+
+*** 
+
 ### AWS S3 bucket setting
 1. Disable blocking public access
 2. Set bucket policy(allow public read)
