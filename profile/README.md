@@ -12,7 +12,7 @@ Verticv is a video streaming platform where users can upload videos, join live s
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## Key Repos
+### Key Repos
 
 **`verticv-web-client`**: Main web client made with React + Tailwind css.
 
@@ -20,13 +20,19 @@ Verticv is a video streaming platform where users can upload videos, join live s
 
 **`verticv_yolov5`**: Product Recognition AI
 
-## Frontend
+*** 
+
+### Frontend
 ReactJS
 
-## Backend
+*** 
+
+### Backend
 Python FastAPI
 
-## AWS S3 bucket setting
+*** 
+
+### AWS S3 bucket setting
 1. Disable blocking public access
 2. Set bucket policy(allow public read)
 3. Set CORS
