@@ -36,6 +36,9 @@ Python FastAPI
 - S3
 - CDN
 - Route53
+- CloudWatch
+- EC2
+- RDS
 
 *** 
 
