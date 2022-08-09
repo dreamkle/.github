@@ -1,6 +1,11 @@
-## Welcome to VERTIC-V ✌️
+## Welcome to Dreamkle
 
-Verticv is a video streaming platform where users can upload videos, join live streams, buy and sell amazing products. 
+Dreamkle is making stories social! An app to post your Original Stories and Fan Fictions! TWINKLE your stories on DREAMKLE!
+
+Are you an author of original stories or fan fictions? Or maybe you're looking for a social media where you can post, discuss, and like stories written by other users?
+
+Introducing <b>Dreamkle</b>, a social network platform for sharing stories of all kinds. Whether you wish to read or write, Dreamkle provides unique features and content!
+
 
 <!--
 
@@ -14,16 +19,15 @@ Verticv is a video streaming platform where users can upload videos, join live s
 
 ### Key Repos
 
-**`verticv-web-client`**: Main web client made with React + Tailwind css.
+**`dreamer-react-native`**: EXAMPLE
 
-**`verticv_api_server`**: Backend made with Python FastAPI.
+**`dreamer-react-native`**: EXAMPLE
 
-**`verticv_yolov5`**: Product Recognition AI
 
 *** 
 
 ### Frontend
-ReactJS
+React Native
 
 *** 
 
